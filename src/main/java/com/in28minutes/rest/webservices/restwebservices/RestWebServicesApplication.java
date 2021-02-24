@@ -14,7 +14,7 @@ public class RestWebServicesApplication {
 		/*for(String nm:applicationContext.getBeanDefinitionNames())
 		System.out.println(nm);*/
 		
-		 System.out.println("REST Web Services is UP for Git");
+		 System.out.println("REST Web Services is UP for Git now");
 	}
 
 }
